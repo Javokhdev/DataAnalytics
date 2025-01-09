@@ -108,7 +108,6 @@ DataAnalytics/
 
 ## Troubleshooting
 
-### "ImportError: No module named 'colorama'"
 - Ensure the virtual environment is activated before running the script.
 
 ### "FileNotFoundError: air_quality_data.csv"
