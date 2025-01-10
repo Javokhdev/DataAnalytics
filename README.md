@@ -114,7 +114,7 @@ DataAnalytics/
 - Ensure the dataset `air_quality_data.csv` is in the project root directory.
 
 ### Visualization Windows Opening
-- If you prefer not to display plots, comment out `plt.show()` in the code.
+- If you prefer to display plots, uncomment `plt.show()` in the code.
 
 ---
 
